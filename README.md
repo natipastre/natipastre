@@ -1,7 +1,6 @@
 # Olá, eu sou a Natália Baptista Pastre 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Front-end e Análise de Dados.  
-Apaixonada por tecnologia, estou em transição de carreira e em constante aprendizado para crescer na área de TI.
+Tenho foco em Desenvolvimento Front-end, com paixão pela tecnologia e dedicação contínua ao aprendizado para avançar e crescer na área de TI.
 
 ## 🎉 Conquistas
 
