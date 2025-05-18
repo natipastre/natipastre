@@ -1,6 +1,6 @@
 # Olá, eu sou a Natália Baptista Pastre 👋
 
-Atuo com Desenvolvimento Front-end, unindo criatividade e lógica para construir interfaces funcionais e responsivas. Sou movida pela paixão por tecnologia e pela busca constante por aprendizado e evolução na área de TI.
+Atuo com Desenvolvimento Front-end, unindo criatividade e lógica para construir interfaces funcionais e responsivas. Paixão pela tecnologia e pela busca constante por aprendizado e evolução na área de TI.
 
 🎉 Conquistas
 
