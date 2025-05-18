@@ -3,13 +3,13 @@
 Tenho foco em Desenvolvimento Front-end, com paixão pela tecnologia e dedicação contínua ao aprendizado para avançar e crescer na área de TI.
 
 🎉 Conquistas
+
 🎓 Concluí o curso Serfrontend na plataforma Udemy.
 
 🎓 Finalizei o curso de Java na plataforma Udemy.
 
 🎓 Completei o curso de Programação na escola Microway.
 
-🚀 Desenvolvi o projeto 3 Cartões - Layout Responsivo.
 
 🏅 Participei de projetos de extensão universitária focados em arrecadação social e inteligência competitiva.
 
