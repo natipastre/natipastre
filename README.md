@@ -1,5 +1,7 @@
 👋 Olá, eu sou Natália Baptista Pastre
+
 Atuo com Desenvolvimento Front-end, unindo criatividade e lógica para construir interfaces funcionais e responsivas. Tenho paixão por tecnologia e sigo em constante busca por aprendizado e evolução na área de TI.
+
 📚 Atualmente, curso Análise e Desenvolvimento de Sistemas na Unicesumar.
 
 🎉 Conquistas
