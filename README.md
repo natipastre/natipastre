@@ -6,7 +6,7 @@
 
 - 🎓 Concluí o curso [**Serfrontend**](https://www.udemy.com/course/serfrontend-html-css-js/) na plataforma Udemy.  
 - 🎓 Finalizei o curso de [**Java**](https://www.udemy.com/) na plataforma Udemy.  
-- 🎓 Concluí o curso de [**Programação**] na escola Microway.  
+- 🎓 Concluí o curso [**Programação**](https://www.microway.com.br/) na escola Microway
 - 🏅 Participei de projetos de extensão universitária focados em arrecadação social e inteligência competitiva.
 
 ## 💻 Projetos em destaque
