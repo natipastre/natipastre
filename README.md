@@ -9,7 +9,7 @@ Tenho foco em Desenvolvimento Front-end, com paixão pela tecnologia e dedicaç�
 
 🎓 Completei o curso de Programação na escola Microway.
 
-🚀 Desenvolvi o projeto 3 Cartões - Layout Responsivo na plataforma Udemy..
+🚀 Desenvolvi o projeto 3 Cartões - Layout Responsivo.
 
 🏅 Participei de projetos de extensão universitária focados em arrecadação social e inteligência competitiva.
 
@@ -32,3 +32,5 @@ Tenho foco em Desenvolvimento Front-end, com paixão pela tecnologia e dedicaç�
 ---
 
 **Vamos nos conectar e criar juntos! 😊**
+
+pronto agora como deixo no perfil 
