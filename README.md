@@ -2,12 +2,16 @@
 
 Tenho foco em Desenvolvimento Front-end, com paixão pela tecnologia e dedicação contínua ao aprendizado para avançar e crescer na área de TI.
 
-## 🎉 Conquistas
+🎉 Conquistas
+🎓 Concluí o curso Serfrontend na plataforma Udemy.
 
-- 🎓 Concluí o curso **Serfrontend** na Udemy.  
-- 🚀 Desenvolvi o projeto [3 Cards - Layout Responsivo](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/).  
-- 📊 Experiência prática em análise de dados, automação de processos e criação de dashboards.  
-- 🏅 Participação em projetos de extensão universitária focados em arrecadação social e inteligência competitiva.  
+🎓 Finalizei o curso de Java na plataforma Udemy.
+
+🎓 Completei o curso de Programação na escola Microway.
+
+🚀 Desenvolvi o projeto 3 Cartões - Layout Responsivo.
+
+🏅 Participei de projetos de extensão universitária focados em arrecadação social e inteligência competitiva.
 
 ## 💻 Projetos em destaque
 
@@ -21,7 +25,7 @@ Tenho foco em Desenvolvimento Front-end, com paixão pela tecnologia e dedicaç�
 
 ## 📫 Contato
 
-- 📧 Email: natipastre@example.com  
+- 📧 Email: natalia.pastre@yahoo.com.br 
 - 💼 LinkedIn: [linkedin.com/in/natipastre](https://www.linkedin.com/in/natipastre)  
 - 🐱 GitHub: [github.com/natipastre](https://github.com/natipastre)  
 
