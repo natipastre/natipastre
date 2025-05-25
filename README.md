@@ -45,13 +45,6 @@
 > ✨ *"Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."*
 
 
-
-- 📧 E-mail: [natalia.pastre@yahoo.com.br](mailto:natalia.pastre@yahoo.com.br)  
-- 💼 LinkedIn: [linkedin.com/in/natipastre](https://www.linkedin.com/in/natipastre)  
-- 🐱 GitHub: [github.com/natipastre](https://github.com/natipastre)  
-
----
-
 ✨ *Vamos nos conectar e criar juntos!* 😊
 
 
