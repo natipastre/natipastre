@@ -2,50 +2,71 @@
 
 🎯 Em transição de carreira com foco em **Tecnologia e Inovação**  
 📚 Cursando **Análise e Desenvolvimento de Sistemas** na Unicesumar  
-💡 Apaixonada por aprender, desenvolver e transformar ideias em soluções digitais  
+💡 Apaixonada por aprender, desenvolver e transformar ideias em soluções digitais
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Conquistas Acadêmicas e Profissionais
 
-- 🎓 Curso [Serfrontend – Udemy](https://www.udemy.com/)  
-- 💻 Curso [Java – Udemy](https://www.udemy.com/)  
-- 🖥️ Curso de Programação – Escola Microway  
-- 🤝 Participação ativa em projetos de extensão universitária com foco em:
-  - Arrecadação solidária
-  - Inteligência social
-  - Inteligência competitiva
-  - Educação sobre IA
+- 🎓 **Curso Serfrontend – Udemy**  
+  Front-end moderno com foco em HTML, CSS, responsividade, semântica e boas práticas.
+
+- ☕ **Curso Java – Udemy**  
+  Fundamentos da linguagem Java, lógica de programação e estruturas básicas.
+
+- 🖥️ **Curso de Programação – Escola Microway**  
+  Introdução à lógica, algoritmos, HTML, Python e CSS, desenvolvendo raciocínio computacional.
+
+- 🤝 **Projetos de Extensão Universitária**  
+  Participação em iniciativas sociais e tecnológicas:  
+  - Arrecadação Solidária  
+  - Inteligência Social  
+  - Inteligência Competitiva  
+  - Educação sobre Inteligência Artificial  
 
 ---
 
-## 💻 Meus Projetos
+## 💻 Projetos em Destaque
 
-| 💡 Projeto | 📄 Descrição |
-|-----------|--------------|
-| [⭐ Layout Criativo](https://github.com/natipastre/layout-criativo) | Página com layout moderno e estrutura limpa para estudos de front-end. |
-| [📇 Lista de Contatos](https://github.com/natipastre/lista-de-contatos) | Aplicação simples de cadastro de contatos com HTML e CSS. |
-| [🧩 Cartões Responsivos](https://github.com/natipastre/cartoes-responsivos) | Cartões com estilo moderno e 100% responsivos, ideais para portfólio ou landing page. |
-| [🏢 Site Institucional](https://github.com/natipastre/site-institucional) | Site institucional com design elegante e responsivo. |
-| [💻 Exercícios de Portugol](https://github.com/natipastre/Exerc-cios-de-Portugol) | Exercícios básicos de lógica de programação para iniciantes. |
-| [🔢 Lógica no Visual Studio](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o) | Lista de exercícios desenvolvidos em C# para prática de lógica. |
-| [☕ Exercícios de Java](https://github.com/natipastre/Exerc-cios-de-Java) | Prática de lógica e estruturas básicas em Java. |
-| [🐍 Python para Iniciantes](https://github.com/natipastre/Exerc-cios-iniciantes-de-Python-) | Primeiros passos em Python com exercícios de fixação. |
+- [⭐ Layout Criativo](https://github.com/natipastre/LayoutCriativo)  
+  Layout moderno e responsivo para estudos de front-end.
+
+- [📇 Lista de Contatos](https://github.com/natipastre/Projeto-2---Lista-de-Contatos)  
+  Aplicação simples de cadastro de contatos.
+
+- [🧩 Cartões Responsivos](https://github.com/natipastre/Projeto-3-Cards---Layout-Responsivo)  
+  Cards com design clean e 100% responsivos.
+
+- [🏢 Site Institucional](https://github.com/natipastre/Projeto-4---Front-End-Aprenser)  
+  Site elegante e responsivo para apresentação institucional.
+
+- [🔐 Login Form](https://github.com/natipastre/Login-form)  
+  Formulário de login com validação básica.
+
+- [💻 Exercícios de Portugol](https://github.com/natipastre/Exerc-cios-de-Portugol)  
+  Exercícios básicos de lógica para iniciantes.
+
+- [🔢 Lógica no Visual Studio](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)  
+  Exercícios em C# para prática de lógica.
+
+- [☕ Exercícios de Java](https://github.com/natipastre/Exerc-cios-de-Java)  
+  Prática de lógica e estruturas básicas em Java.
+
+- [🐍 Python para Iniciantes](https://github.com/natipastre/Exerc-cios-iniciantes-de-Python-)  
+  Exercícios básicos para quem está começando em Python.
 
 ---
 
 ## ✉️ Vamos nos conectar!
 
-- 📧 E-mail: [natalia.pastre@yahoo.com.br](mailto:natalia.pastre@yahoo.com.br)  
-- 💼 LinkedIn: [linkedin.com/in/natipastre](https://linkedin.com/in/natipastre)  
-- 🐱 GitHub: [github.com/natipastre](https://github.com/natipastre)
+- 📧 [natalia.pastre@yahoo.com.br](mailto:natalia.pastre@yahoo.com.br)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/natipastre)  
+- 🐱 [GitHub](https://github.com/natipastre)
 
 ---
 
-> ✨ "Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."
+> ✨ *"Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."*
 
----
-
-🌟 **Vamos nos conectar e criar juntos!** 😊
+🌟 Vamos nos conectar e criar juntos! 😊
 
 
