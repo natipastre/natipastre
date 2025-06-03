@@ -1,8 +1,8 @@
 # 👩‍💻 Natália Baptista Pastre
 
-🎯 Em transição de carreira com foco em **Tecnologia e Inovação**  
-📚 Cursando **Análise e Desenvolvimento de Sistemas** na Unicesumar  
-💡 Apaixonada por aprender, desenvolver e transformar ideias em soluções digitais
+🎯 **Profissional em transição de carreira, dedicada ao desenvolvimento tecnológico e inovação, buscando oportunidades para aplicar e expandir habilidades em TI.**  
+📚 **Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, com sólida base em lógica de programação, front-end e boas práticas de desenvolvimento.**  
+💡 **Apaixonada por transformar ideias em soluções digitais eficientes, com compromisso contínuo com aprendizado, crescimento e entrega de resultados de alta qualidade.**
 
 ---
 
