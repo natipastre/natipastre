@@ -15,7 +15,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, co
 
 ## ⚙️ Habilidades
 
-- **Linguagens:** HTML, CSS, JavaScript, C#, Python, Java
+- **Linguagens:** HTML, CSS, JavaScript, Python, Java
 - **Front-end:** Layouts responsivos, Flexbox, Grid
 - **Lógica de Programação:** Algoritmos e resolução de problemas
 - **Ferramentas:** GitHub, Visual Studio, Portugol
