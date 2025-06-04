@@ -1,63 +1,48 @@
 # 👩‍💻 Natália Baptista Pastre
 
-🎯 Profissional em transição da área de Administração para Tecnologia, focada em desenvolvimento e inovação, buscando oportunidades para aplicar e ampliar habilidades técnicas e estratégicas em TI.  
-📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, com sólida base em lógica de programação, front-end e boas práticas de desenvolvimento.  
-💡 Apaixonada por transformar ideias em soluções digitais eficientes, com compromisso contínuo com aprendizado, crescimento e entrega de resultados de alta qualidade.
+🎯 **Transição de Administração para Tecnologia**  
+Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, com sólida base em lógica de programação, front-end e boas práticas de desenvolvimento. Apaixonada por transformar ideias em soluções digitais eficientes, estou em busca de oportunidades para aplicar e ampliar minhas habilidades técnicas e estratégicas em TI.
 
----
+## 🏆 Conquistas & Formação
 
-## 🏆 Conquistas Acadêmicas e Profissionais
-
-- 🎓 Curso Serfrontend – Udemy  
-  Front-end moderno com foco em HTML, CSS, responsividade, semântica e boas práticas.
-
-- ☕ Curso Java – Udemy  
-  Fundamentos da linguagem Java, lógica de programação e estruturas básicas.
-
-- 🖥️ Curso de Programação – Escola Microway  
-  Introdução à lógica de programação, HTML, Python e CSS.
-
-- 🤝 Projetos de Extensão Universitária  
-  Participação em iniciativas sociais e tecnológicas:  
+- 🎓 **Serfrontend (Udemy):** HTML, CSS, responsividade, semântica e boas práticas.
+- ☕ **Java (Udemy):** Fundamentos da linguagem, lógica e estruturas básicas.
+- 🖥️ **Programação (Microway):** Lógica, HTML, Python e CSS.
+- 🤝 **Projetos de Extensão Universitária:**  
   - Arrecadação Solidária  
   - Inteligência Social  
   - Inteligência Competitiva  
-  
 
 ## ⚙️ Habilidades
 
-- Linguagens: HTML, CSS, JavaScript.
-- Desenvolvimento Front-end: layouts responsivos, Flexbox, Grid  
-- Lógica de programação: algoritmos e resolução de problemas  
-- Ferramentas: GitHub, Visual Studio,Portugol.  
-- Soft skills: comunicação, trabalho em equipe, aprendizado contínuo, proatividade  
-
----
+- **Linguagens:** HTML, CSS, JavaScript, C#, Python, Java
+- **Front-end:** Layouts responsivos, Flexbox, Grid
+- **Lógica de Programação:** Algoritmos e resolução de problemas
+- **Ferramentas:** GitHub, Visual Studio, Portugol
+- **Interpessoais:** Comunicação, trabalho em equipe, aprendizado contínuo, proatividade
 
 ## 💻 Projetos em Destaque
 
-| Projeto                    | Descrição breve                                    | Link no GitHub                                  |
-|---------------------------|---------------------------------------------------|------------------------------------------------|
-| ⭐ **Layout Criativo**       | Layout moderno e responsivo para estudos front-end | [Ver Projeto](https://github.com/natipastre/LayoutCriativo)        |
-| 📇 **Lista de Contatos**     | Aplicação simples de cadastro de contatos          | [Ver Projeto](https://github.com/natipastre/Projeto-2---Lista-de-Contatos) |
-| 🧩 **Cartões Responsivos**   | Cards com design clean e 100% responsivos           | [Ver Projeto](https://github.com/natipastre/Projeto-3-Cards---Layout-Responsivo)  |
-| 🏢 **Site Institucional**    | Site elegante e responsivo para apresentação         | [Ver Projeto](https://github.com/natipastre/Projeto-4---Front-End-Aprenser)      |
-| 🔐 **Login Form**            | Formulário de login com validação básica             | [Ver Projeto](https://github.com/natipastre/Login-form)                     |
-| 📚 **Exercícios de Portugol**| Exercícios básicos de lógica para iniciantes         | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Portugol)          |
-| 🔢 **Lógica no Visual Studio**| Exercícios em C# para prática de lógica              | [Ver Projeto](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)  |
-| ☕ **Exercícios de Java**    | Prática de lógica e estruturas básicas em Java       | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Java)              |
-| 🐍 **Python para Iniciantes**| Exercícios básicos para quem está começando em Python| [Ver Projeto](https://github.com/natipastre/Exerc-cios-iniciantes-de-Python-) |
+| Projeto                    | Descrição                                   | Link        |
+|----------------------------|---------------------------------------------|-------------|
+| ⭐ Layout Criativo          | Layout moderno e responsivo para estudos    | [Ver Projeto](https://github.com/natipastre/layout-criativo) |
+| 📇 Lista de Contatos       | Cadastro simples de contatos                | [Ver Projeto](https://github.com/natipastre/lista-contatos)  |
+| 🧩 Cartões Responsivos     | Cards com design clean e responsivo         | [Ver Projeto](https://github.com/natipastre/cartoes-responsivos) |
+| 🏢 Site Institucional      | Site elegante e responsivo                  | [Ver Projeto](https://github.com/natipastre/site-institucional)  |
+| 🔐 Formulário de Login     | Formulário com validação básica             | [Ver Projeto](https://github.com/natipastre/formulario-login)     |
+| 📚 Exercícios de Portugol  | Lógica básica para iniciantes               | [Ver Projeto](https://github.com/natipastre/exercicios-portugol) |
+| 🔢 Lógica no Visual Studio | Exercícios em C# para prática de lógica     | [Ver Projeto](https://github.com/natipastre/logica-csharp)        |
+| ☕ Exercícios de Java      | Prática de lógica em Java                   | [Ver Projeto](https://github.com/natipastre/exercicios-java)      |
+| 🐍 Python para Iniciantes  | Exercícios básicos em Python                | [Ver Projeto](https://github.com/natipastre/python-iniciantes)    |
+
+## ✉️ Contato
+
+- 📧 natalia.pastre@yahoo.com.br
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- [GitHub](https://github.com/natipastre)
 
 ---
 
-## ✉️ Vamos nos conectar!
-
-- 📧 [natalia.pastre@yahoo.com.br](mailto:natalia.pastre@yahoo.com.br)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/natipastre)  
-- 🐱 [GitHub](https://github.com/natipastre)
-
----
-
-> ✨ "Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."
+✨ _"Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."_
 
 🌟 Vamos nos conectar e criar juntos! 😊
