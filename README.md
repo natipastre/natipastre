@@ -15,20 +15,18 @@
   Fundamentos da linguagem Java, lógica de programação e estruturas básicas.
 
 - 🖥️ Curso de Programação – Escola Microway  
-  Introdução à lógica, algoritmos, HTML, Portugol e CSS, desenvolvendo raciocínio computacional.
+  Introdução à lógica de programação, HTML, Python e CSS.
 
 - 🤝 Projetos de Extensão Universitária  
   Participação em iniciativas sociais e tecnológicas:  
   - Arrecadação Solidária  
   - Inteligência Social  
   - Inteligência Competitiva  
-  - Educação sobre Inteligência Artificial  
-
----
+  
 
 ## ⚙️ Habilidades
 
-- Linguagens: HTML, CSS, JavaScript, Portugol  
+- Linguagens: HTML, CSS, JavaScript.
 - Desenvolvimento Front-end: layouts responsivos, Flexbox, Grid  
 - Lógica de programação: algoritmos e resolução de problemas  
 - Ferramentas: Git, GitHub, Visual Studio  
