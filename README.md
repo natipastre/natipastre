@@ -1,23 +1,23 @@
 # 👩‍💻 Natália Baptista Pastre
 
-🎯 **Profissional em transição da área de Administração para Tecnologia, focada em desenvolvimento e inovação, buscando oportunidades para aplicar e ampliar habilidades técnicas e estratégicas em TI.**  
-📚 **Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, com sólida base em lógica de programação, front-end e boas práticas de desenvolvimento.**  
-💡 **Apaixonada por transformar ideias em soluções digitais eficientes, com compromisso contínuo com aprendizado, crescimento e entrega de resultados de alta qualidade.**
+🎯 Profissional em transição da área de Administração para Tecnologia, focada em desenvolvimento e inovação, buscando oportunidades para aplicar e ampliar habilidades técnicas e estratégicas em TI.  
+📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, com sólida base em lógica de programação, front-end e boas práticas de desenvolvimento.  
+💡 Apaixonada por transformar ideias em soluções digitais eficientes, com compromisso contínuo com aprendizado, crescimento e entrega de resultados de alta qualidade.
 
 ---
 
 ## 🏆 Conquistas Acadêmicas e Profissionais
 
-- 🎓 **Curso Serfrontend – Udemy**  
+- 🎓 Curso Serfrontend – Udemy  
   Front-end moderno com foco em HTML, CSS, responsividade, semântica e boas práticas.
 
-- ☕ **Curso Java – Udemy**  
+- ☕ Curso Java – Udemy  
   Fundamentos da linguagem Java, lógica de programação e estruturas básicas.
 
-- 🖥️ **Curso de Programação – Escola Microway**  
-  Introdução à lógica, algoritmos, HTML, Python e CSS, desenvolvendo raciocínio computacional.
+- 🖥️ Curso de Programação – Escola Microway  
+  Introdução à lógica, algoritmos, HTML, Portugol e CSS, desenvolvendo raciocínio computacional.
 
-- 🤝 **Projetos de Extensão Universitária**  
+- 🤝 Projetos de Extensão Universitária  
   Participação em iniciativas sociais e tecnológicas:  
   - Arrecadação Solidária  
   - Inteligência Social  
@@ -26,34 +26,29 @@
 
 ---
 
+## ⚙️ Habilidades
+
+- Linguagens: HTML, CSS, JavaScript, Portugol  
+- Desenvolvimento Front-end: layouts responsivos, Flexbox, Grid  
+- Lógica de programação: algoritmos e resolução de problemas  
+- Ferramentas: Git, GitHub, Visual Studio  
+- Soft skills: comunicação, trabalho em equipe, aprendizado contínuo, proatividade  
+
+---
+
 ## 💻 Projetos em Destaque
 
-- [⭐ Layout Criativo](https://github.com/natipastre/LayoutCriativo)  
-  Layout moderno e responsivo para estudos de front-end.
-
-- [📇 Lista de Contatos](https://github.com/natipastre/Projeto-2---Lista-de-Contatos)  
-  Aplicação simples de cadastro de contatos.
-
-- [🧩 Cartões Responsivos](https://github.com/natipastre/Projeto-3-Cards---Layout-Responsivo)  
-  Cards com design clean e 100% responsivos.
-
-- [🏢 Site Institucional](https://github.com/natipastre/Projeto-4---Front-End-Aprenser)  
-  Site elegante e responsivo para apresentação institucional.
-
-- [🔐 Login Form](https://github.com/natipastre/Login-form)  
-  Formulário de login com validação básica.
-
-- [💻 Exercícios de Portugol](https://github.com/natipastre/Exerc-cios-de-Portugol)  
-  Exercícios básicos de lógica para iniciantes.
-
-- [🔢 Lógica no Visual Studio](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)  
-  Exercícios em C# para prática de lógica.
-
-- [☕ Exercícios de Java](https://github.com/natipastre/Exerc-cios-de-Java)  
-  Prática de lógica e estruturas básicas em Java.
-
-- [🐍 Python para Iniciantes](https://github.com/natipastre/Exerc-cios-iniciantes-de-Python-)  
-  Exercícios básicos para quem está começando em Python.
+| Projeto                    | Descrição breve                                    | Link no GitHub                                  |
+|---------------------------|---------------------------------------------------|------------------------------------------------|
+| ⭐ **Layout Criativo**       | Layout moderno e responsivo para estudos front-end | [Ver Projeto](https://github.com/natipastre/LayoutCriativo)        |
+| 📇 **Lista de Contatos**     | Aplicação simples de cadastro de contatos          | [Ver Projeto](https://github.com/natipastre/Projeto-2---Lista-de-Contatos) |
+| 🧩 **Cartões Responsivos**   | Cards com design clean e 100% responsivos           | [Ver Projeto](https://github.com/natipastre/Projeto-3-Cards---Layout-Responsivo)  |
+| 🏢 **Site Institucional**    | Site elegante e responsivo para apresentação         | [Ver Projeto](https://github.com/natipastre/Projeto-4---Front-End-Aprenser)      |
+| 🔐 **Login Form**            | Formulário de login com validação básica             | [Ver Projeto](https://github.com/natipastre/Login-form)                     |
+| 📚 **Exercícios de Portugol**| Exercícios básicos de lógica para iniciantes         | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Portugol)          |
+| 🔢 **Lógica no Visual Studio**| Exercícios em C# para prática de lógica              | [Ver Projeto](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)  |
+| ☕ **Exercícios de Java**    | Prática de lógica e estruturas básicas em Java       | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Java)              |
+| 🐍 **Python para Iniciantes**| Exercícios básicos para quem está começando em Python| [Ver Projeto](https://github.com/natipastre/Exerc-cios-iniciantes-de-Python-) |
 
 ---
 
@@ -65,8 +60,6 @@
 
 ---
 
-> ✨ *"Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."*
+> ✨ "Cada linha de código é um passo mais perto do meu objetivo. Estou sempre em evolução."
 
 🌟 Vamos nos conectar e criar juntos! 😊
-
-
