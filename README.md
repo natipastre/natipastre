@@ -5,9 +5,9 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, co
 
 ## 🏆 Conquistas & Formação
 
-- 🎓 **Serfrontend (Udemy):** HTML, CSS, responsividade, semântica e boas práticas.
+- 🎓 **Serfrontend (Udemy):** HTML, CSS, responsividade, semântica e boas práticas,JavaScript.
 - ☕ **Java (Udemy):** Fundamentos da linguagem, lógica e estruturas básicas.
-- 🖥️ **Programação (Microway):** Lógica, HTML, Python e CSS.
+- 🖥️ **Programação (Microway):** Lógica de programação, Java, HTML, Python e CSS.
 - 🤝 **Projetos de Extensão Universitária:**  
   - Arrecadação Solidária  
   - Inteligência Social  
