@@ -29,7 +29,7 @@
 - Linguagens: HTML, CSS, JavaScript.
 - Desenvolvimento Front-end: layouts responsivos, Flexbox, Grid  
 - Lógica de programação: algoritmos e resolução de problemas  
-- Ferramentas: Git, GitHub, Visual Studio  
+- Ferramentas: GitHub, Visual Studio,Portugol.  
 - Soft skills: comunicação, trabalho em equipe, aprendizado contínuo, proatividade  
 
 ---
