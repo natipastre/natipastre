@@ -32,7 +32,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, co
 | 🔐 Formulário de Login    | Formulário com validação básica                   | [Ver Projeto](https://natipastre.github.io/Login-form/)       |
 | 📚 Exercícios de Portugol | Lógica básica para iniciantes                     | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Portugol)    |
 | 🔢 Lógica no Visual Studio| Exercícios em C# para prática de lógica           | [Ver Projeto](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)          |
-| ☕ Exercícios de Java      | Prática de lógica em Java                         | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Java)        |
+| ☕ Exercícios de JavaScript | Prática de lógica em Java                         | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Java)        |
 | 🐍 Exercícios de Python   | Exercícios básicos e práticos em Python           | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Python)      |
 | 🧠 Jogo da Memória        | Jogo da memória usando HTML e CSS com efeitos 3D | [Jogar Online](https://natipastre.github.io/Jogo-da-memoria/)       |
 
