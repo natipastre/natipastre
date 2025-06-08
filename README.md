@@ -7,7 +7,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, co
 
 - 🎓 **Serfrontend (Udemy):** HTML, CSS, responsividade, semântica e boas práticas, JavaScript.
 - ☕ **Java (Udemy):** Fundamentos da linguagem, lógica e estruturas básicas.
-- 🖥️ **Programação (Microway):** Lógica de programação, Java, HTML, Python e CSS.
+- 🖥️ **Programação (Microway):** Lógica de programação, JavaScript, HTML, Python e CSS.
 - 🤝 **Projetos de Extensão Universitária:**  
   - Arrecadação Solidária  
   - Inteligência Social  
@@ -15,7 +15,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas na Unicesumar, co
 
 ## ⚙️ Habilidades
 
-- **Linguagens:** HTML, CSS, JavaScript, Python, Java
+- **Linguagens:** HTML, CSS, JavaScript
 - **Front-end:** Layouts responsivos, Flexbox, Grid
 - **Lógica de Programação:** Algoritmos e resolução de problemas
 - **Ferramentas:** GitHub, Visual Studio, Portugol
