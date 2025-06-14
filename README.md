@@ -3,7 +3,7 @@
     <img src='https://i.postimg.cc/1RWRN5z2/Chat-GPT-Image-14-de-jun-de-2025-19-27-44.png' 
          border='0' 
          alt='Chat-GPT-Image-14-de-jun-de-2025-19-27-44' 
-         width="350" />
+         width="400" />
   </a>
 </div>
 
