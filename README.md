@@ -36,14 +36,19 @@
 
 ---
 
+---
+
 ### 🚀 Tecnologias Essenciais
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/javascript.png" alt="JavaScript" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/html-5--v1.png" alt="HTML5" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/css3.png" alt="CSS3" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
 </p>
+
+---
+
 
 ---
 
