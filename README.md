@@ -13,16 +13,13 @@
 
 ---
 
-### 📫 Meu email:
+📫 Como entrar em contato comigo
 >natali.pastre@yahoo.com.br
 
 ---
 
-### 📬 Vamos conversar?
+Conecte-se comigo: 
 
-<p align="center">
-  <a href="mailto:natali.pastre@yahoo.com.br" title="Enviar Email" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/natalia-pastre/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
