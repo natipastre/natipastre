@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
 
@@ -13,19 +14,23 @@
 
 ---
 
-📫 Como entrar em contato comigo
->natali.pastre@yahoo.com.br
+### 📫 Como entrar em contato comigo
+
+<span style="font-weight:bold; font-size:1.1em;">natali.pastre@yahoo.com.br</span>
 
 ---
 
-Conecte-se comigo: 
+### 📬 Vamos conversar?
 
+<p align="center">
+  <a href="mailto:natali.pastre@yahoo.com.br" title="Enviar Email" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/natalia-pastre/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://github.com/natipastre" target="_blank" rel="noopener noreferrer" title="GitHub" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" alt="GitHub" />
   </a>
 </p>
 
