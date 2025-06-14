@@ -32,7 +32,7 @@
 
 ### 📬 Vamos conversar?
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/natalia-pastre/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
@@ -40,6 +40,7 @@
     <img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" alt="GitHub" />
   </a>
 </p>
+
 
 ---
 
