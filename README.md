@@ -1,9 +1,8 @@
-
 <a href='https://postimg.cc/ThDvzxgJ' target='_blank'>
   <img src='https://i.postimg.cc/1RWRN5z2/Chat-GPT-Image-14-de-jun-de-2025-19-27-44.png' 
        border='0' 
        alt='Chat-GPT-Image-14-de-jun-de-2025-19-27-44' 
-       width="150" />
+       width="250" />
 </a>
 
 <h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
