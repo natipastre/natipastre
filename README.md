@@ -5,7 +5,7 @@
 
 ### 🌱 Atualmente, estou aprendendo:
 - HTML
-- CSS3
+- CSS
 - JavaScript
 
 ### 👩‍💻 Meus projetos estão disponíveis aqui:
@@ -13,12 +13,12 @@
 
 ---
 
-### 📫 Como entrar em contato comigo:
-📧 natalia.pastre@yahoo.com.br
-
-### 🌐 Conecte-se comigo:
+### 📬 Vamos conversar?
 
 <p align="center">
+  <a href="mailto:natalia.pastre@yahoo.com.br" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/natalia-pastre/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -72,4 +72,3 @@
 ✨ _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
 
 🌟 Vamos nos conectar e criar juntos! 😊
-
