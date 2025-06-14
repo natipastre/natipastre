@@ -5,7 +5,7 @@
 
 ### 🌱 Atualmente, estou aprendendo:
 - HTML
-- CSS
+- CSS3
 - JavaScript
 
 ### 👩‍💻 Meus projetos estão disponíveis aqui:
