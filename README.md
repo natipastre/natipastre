@@ -5,7 +5,7 @@
 
 ### 🌱 Atualmente, estou aprendendo:
 - HTML
-- CSS
+- CSS3
 - JavaScript
 
 ### 👩‍💻 Meus projetos estão disponíveis aqui:
@@ -13,17 +13,22 @@
 
 ---
 
+### 📫 Meu email:
+>natali.pastre@yahoo.com.br
+
+---
+
 ### 📬 Vamos conversar?
 
 <p align="center">
-  <a href="mailto:natalia.pastre@yahoo.com.br" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:natali.pastre@yahoo.com.br" title="Enviar Email" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/natalia-pastre/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/natalia-pastre/" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/natipastre" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/natipastre" target="_blank" rel="noopener noreferrer" title="GitHub" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
   </a>
 </p>
 
