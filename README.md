@@ -37,11 +37,6 @@ Atualmente estudo **HTML5**, **CSS3**, **JavaScript**, além de me aprofundar em
 
 ---
 
-### 🌱 Atualmente, estou aprendendo:
-- HTML
-- CSS3
-- JavaScript
-
 ### 👩‍💻 Meus projetos estão disponíveis aqui:
 🔗 [https://github.com/natipastre](https://github.com/natipastre)
 
