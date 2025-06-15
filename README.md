@@ -1,13 +1,39 @@
-<img src='https://i.postimg.cc/1RWRN5z2/Chat-GPT-Image-14-de-jun-de-2025-19-27-44.png' 
-     border='0' 
-     alt='Chat-GPT-Image-14-de-jun-de-2025-19-27-44' 
-     width="700" />
-
-
-
+<div align="center">
+  <img src="https://i.postimg.cc/1RWRN5z2/Chat-GPT-Image-14-de-jun-de-2025-19-27-44.png" 
+       alt="Imagem de apresentação Natália Pastre" 
+       width="700" />
+</div>
 
 <h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
+
+---
+
+## 🚀 Sobre mim
+
+> _"Transformando dados em insights, códigos em soluções e ideias em inovação."_
+
+Sou uma desenvolvedora em formação com foco em **Front-End**, apaixonada por resolver problemas e aprender continuamente.  
+Atualmente estou em transição de carreira da área administrativa para a tecnologia, cursando **Análise e Desenvolvimento de Sistemas**, e aplicando meus conhecimentos em projetos práticos e criativos.
+
+🧠 **Aprendendo diariamente:**  
+Atualmente estudo **HTML5**, **CSS3**, **JavaScript**, além de me aprofundar em **Java** e **Python**.
+
+🔍 **Explorando novas oportunidades:**  
+- Criando projetos práticos para consolidar meus estudos  
+- Acompanhando as tendências e boas práticas do mercado  
+- Aprendendo lógica de programação e desenvolvimento web
+
+🤝 **Interesses e colaborações:**  
+- Contribuir com projetos sociais e educacionais com tecnologia  
+- Trabalhar em equipe com foco em soluções acessíveis e funcionais  
+- Trocar experiências com a comunidade dev 💬
+
+📢 **Vamos conversar sobre:**  
+- Front-End  
+- Visualização de dados  
+- Início na carreira de tecnologia  
+- Transição profissional para TI
 
 ---
 
@@ -23,7 +49,7 @@
 
 ### 📫 Como entrar em contato comigo
 
-<span style="font-weight:bold; font-size:1.1em;">natali.pastre@yahoo.com.br</span>
+📧 **natali.pastre@yahoo.com.br**
 
 ---
 
@@ -38,11 +64,6 @@
   </a>
 </p>
 
-
----
-
----
-
 ---
 
 ### 🚀 Tecnologias Essenciais
@@ -54,7 +75,6 @@
 </p>
 
 ---
-
 
 ## 💻 Projetos em Destaque
 
@@ -73,6 +93,5 @@
 
 ---
 
-✨ _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
-
+✨ _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_  
 🌟 Vamos nos conectar e criar juntos! 😊
