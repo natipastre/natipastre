@@ -24,7 +24,7 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 ### 💡 Habilidades Técnicas
 
 - **Linguagens:** JavaScript, HTML5, CSS3, Java, Python  
-- **Ferramentas:** Git, VS Code, Chrome DevTools  
+- **Ferramentas:** Git, VS Code  
 - **Metodologias:** Metodologias ágeis, controle de versão  
 - **Bases:** Lógica de programação, desenvolvimento Front-End, responsive design
 
