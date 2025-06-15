@@ -4,6 +4,7 @@
 
 <h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
+<h4 align="center">🎯 Foco: Oportunidades para estágio e vaga de Desenvolvedora Júnior</h4>
 
 ---
 
@@ -11,12 +12,30 @@
 
 > "Transformando dados em insights, código em soluções e ideias em inovação."
 
-Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas usando tecnologia. Estou em transição da área administrativa para a tecnologia, cursando Análise e Desenvolvimento de Sistemas. Busco oportunidades para colaborar com soluções inovadoras e seguir aprendendo todos os dias.
+Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas usando tecnologia. Estou em transição da área administrativa para a tecnologia, cursando Análise e Desenvolvimento de Sistemas. Busco oportunidades de estágio ou vaga júnior para colaborar com soluções inovadoras e crescer profissionalmente.
 
 - 🌟 Aprendendo conceitos avançados de JavaScript, HTML5 e CSS3
 - ☕ Me aprofundando em Java e Python
 - 👥 Aberta para projetos colaborativos e de pesquisa
 - 💬 Pergunte-me sobre tecnologia! Adoro trocar ideias e aprender juntos.
+
+---
+
+### 💡 Habilidades Técnicas
+
+- **Linguagens:** JavaScript, HTML5, CSS3, Java, Python  
+- **Ferramentas:** Git, VS Code, Chrome DevTools  
+- **Metodologias:** Metodologias ágeis, controle de versão  
+- **Bases:** Lógica de programação, desenvolvimento Front-End, responsive design
+
+---
+
+### 🤝 Soft Skills
+
+- Comunicação clara e colaborativa  
+- Proatividade e vontade de aprender  
+- Organização e gestão de tempo  
+- Trabalho em equipe  
 
 ---
 
