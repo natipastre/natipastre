@@ -23,7 +23,7 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 
 ### 💡 Habilidades Técnicas
 
-- **Linguagens:** JavaScript, HTML5, CSS3, Java, Python  
+- **Linguagens:** JavaScript, HTML5, CSS3
 - **Ferramentas:** Git, VS Code  
 - **Metodologias:** Metodologias ágeis, controle de versão  
 - **Bases:** Lógica de programação, desenvolvimento Front-End, responsive design
@@ -45,9 +45,7 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+  <img
 
 ---
 
