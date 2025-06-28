@@ -51,18 +51,19 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 
 ### 💻 Projetos em Destaque
 
-| Projeto | Descrição | Link |
-|--------|-------------|------|
-| ⭐ **Layout Criativo** | Layout moderno e responsivo para estudos | [Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/) |
-| 💇 **Lista de Contatos** | Cadastro simples de contatos | [Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/) |
-| 🧹 **Cartões Responsivos** | Cards com design clean e responsivo | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
-| 🏢 **Site Institucional** | Site elegante e responsivo | [Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/) |
-| 🔐 **Formulário de Login** | Formulário com validação básica | [Ver Projeto](https://natipastre.github.io/Login-form/) |
-| 📚 **Exercícios de Portugol** | Lógica básica para iniciantes | [GitHub](https://github.com/natipastre/Exerc-cios-de-Portugol) |
-| 📈 **Lógica no Visual Studio** | Exercícios em C# para prática de lógica | [GitHub](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o) |
-| ☕ **Exercícios de Java** | Prática de lógica em Java | [GitHub](https://github.com/natipastre/Exerc-cios-de-Java) |
-| 🐍 **Exercícios de Python** | Exercícios básicos e práticos em Python | [GitHub](https://github.com/natipastre/Exerc-cios-de-Python) |
-| 🧠 **Jogo da Memória** | Jogo com HTML e CSS com efeitos 3D | [Jogar Online](https://natipastre.github.io/Jogo-da-memoria/) |
+| Projeto               | Descrição                               | Link                                                                                 |
+|----------------------|---------------------------------------|--------------------------------------------------------------------------------------|
+| ⭐ **Layout Criativo**      | Layout moderno e responsivo para estudos       | [Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)                |
+| 💇 **Lista de Contatos**   | Cadastro simples de contatos                    | [Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)           |
+| 🧹 **Cartões Responsivos** | Cards com design clean e responsivo             | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/)     |
+| 🏢 **Site Institucional**  | Site elegante e responsivo                      | [Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)          |
+| 🔐 **Formulário de Login** | Formulário com validação básica                 | [Ver Projeto](https://natipastre.github.io/Login-form/)                              |
+| 📈 **Lógica no Visual Studio** | Exercícios em C# para prática de lógica          | [GitHub](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)               |
+| ☕ **Exercícios de Java**   | Prática de lógica em Java                        | [GitHub](https://github.com/natipastre/Exerc-cios-de-Java)                          |
+| 🐍 **Exercícios de Python**| Exercícios básicos e práticos em Python         | [GitHub](https://github.com/natipastre/Exerc-cios-de-Python)                        |
+| 🧠 **Jogo da Memória**     | Jogo com HTML e CSS com efeitos 3D              | [Jogar Online](https://natipastre.github.io/Jogo-da-memoria/)                       |
+| 🖩 **Calculadora Simples** | Calculadora básica feita com HTML, CSS e JavaScript | [GitHub](https://github.com/natipastre/calculadora-simples) | [Demo Online]
+
 
 ---
 
