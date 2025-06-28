@@ -58,11 +58,12 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 | 🧹 **Cartões Responsivos** | Cards com design clean e responsivo             | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/)     |
 | 🏢 **Site Institucional**  | Site elegante e responsivo                      | [Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)          |
 | 🔐 **Formulário de Login** | Formulário com validação básica                 | [Ver Projeto](https://natipastre.github.io/Login-form/)                              |
-| 📈 **Lógica no Visual Studio** | Exercícios em C# para prática de lógica          | [GitHub](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)               |
-| ☕ **Exercícios de Java**   | Prática de lógica em Java                        | [GitHub](https://github.com/natipastre/Exerc-cios-de-Java)                          |
-| 🐍 **Exercícios de Python**| Exercícios básicos e práticos em Python         | [GitHub](https://github.com/natipastre/Exerc-cios-de-Python)                        |
-| 🧠 **Jogo da Memória**     | Jogo com HTML e CSS com efeitos 3D              | [Jogar Online](https://natipastre.github.io/Jogo-da-memoria/)                       |
-| 🖩 **Calculadora Simples** | Calculadora básica feita com HTML, CSS e JavaScript | [GitHub](https://github.com/natipastre/calculadora-simples) | [Demo Online](https://natipastre.github.io/Calculadora---js-/) |
+| 📈 **Lógica no Visual Studio** | Exercícios em C# para prática de lógica          | [Ver Projeto](https://github.com/natipastre/Exerc-cio-L-gica-de-Programa-o)          |
+| ☕ **Exercícios de Java**   | Prática de lógica em Java                        | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Java)                      |
+| 🐍 **Exercícios de Python**| Exercícios básicos e práticos em Python         | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Python)                    |
+| 🧠 **Jogo da Memória**     | Jogo com HTML e CSS com efeitos 3D              | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                        |
+| 🖩 **Calculadora Simples** | Calculadora básica feita com HTML, CSS e JavaScript | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                      |
+
 
 
 ---
