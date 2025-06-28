@@ -62,7 +62,7 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 | ☕ **Exercícios de Java**   | Prática de lógica em Java                        | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Java)                      |
 | 🐍 **Exercícios de Python**| Exercícios básicos e práticos em Python         | [Ver Projeto](https://github.com/natipastre/Exerc-cios-de-Python)                    |
 | 🧠 **Jogo da Memória**     | Jogo com HTML e CSS com efeitos 3D              | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                        |
-| 🖩 **Calculadora ** | Calculadora básica feita com HTML, CSS e JavaScript | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                      |
+| 🖩 Calculadora  | Calculadora básica feita com HTML, CSS e JavaScript | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                      |
 
 
 
