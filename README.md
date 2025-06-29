@@ -51,15 +51,16 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 
 ### 💻 Projetos em Destaque
 
-| Projeto               | Descrição                               | Link                                                                                 |
-|----------------------|---------------------------------------|--------------------------------------------------------------------------------------|
-| ⭐ **Layout Criativo**      | Layout moderno e responsivo para estudos       | [Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)                |
-| 💇 **Lista de Contatos**   | Cadastro simples de contatos                    | [Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)           |
-| 🧹 **Cartões Responsivos** | Cards com design clean e responsivo             | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/)     |
-| 🏢 **Site Institucional**  | Site elegante e responsivo                      | [Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)          |
-| 🔐 **Formulário de Login** | Formulário com validação básica                 | [Ver Projeto](https://natipastre.github.io/Login-form/)                              |
-| 🧠 **Jogo da Memória**     | Jogo com HTML e CSS com efeitos 3D              | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                        |
-| 🖩 Calculadora  | Calculadora básica feita com HTML, CSS e JavaScript | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                      |
+| Projeto                    | Descrição                                                                                                                          | Link                                                                             |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ⭐ **Layout Criativo**      | Página com layout moderno e responsivo, ideal para estudo de design com HTML e CSS.                                                | [Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)            |
+| 💇 **Lista de Contatos**   | Aplicação simples para cadastro e visualização de contatos, desenvolvida com HTML e CSS.                                           | [Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)       |
+| 🧹 **Cartões Responsivos** | Conjunto de cards com design limpo e responsivo, feitos com HTML e CSS. Ideal para destacar conteúdos em portfólios.               | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
+| 🏢 **Site Institucional**  | Site institucional elegante e adaptável a diferentes dispositivos, criado com HTML e CSS.                                          | [Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)      |
+| 🔐 **Formulário de Login** | Tela de login com validações básicas de entrada, interface moderna feita em HTML e CSS.                                            | [Ver Projeto](https://natipastre.github.io/Login-form/)                          |
+| 🧠 **Jogo da Memória**     | Jogo da memória interativo com efeito 3D, desenvolvido apenas com HTML e CSS.                                                      | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                     |
+| 🖩 **Calculadora**         | Calculadora funcional desenvolvida com HTML, CSS e JavaScript. Possui layout centralizado e visual aumentado para facilitar o uso. | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                   |
+
 
 
 
