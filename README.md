@@ -60,7 +60,7 @@ Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas 
 | 🔐 **Formulário de Login** | Tela de login com validações básicas de entrada, interface moderna feita em HTML e CSS.                                            | [Ver Projeto](https://natipastre.github.io/Login-form/)                          |
 | 🧠 **Jogo da Memória**     | Jogo da memória interativo com efeito 3D, desenvolvido apenas com HTML e CSS.                                                      | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                     |
 | 🖩 **Calculadora**         | Calculadora funcional desenvolvida com HTML, CSS e JavaScript. Possui layout centralizado e visual aumentado para facilitar o uso. | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                   |
-| 🖩 **Gerenciador de tarefas**     | Projeto de aprendizado utilizando HTML, CSS e JavaScript. O objetivo de praticar conceitos fundamentais como estruturação de páginas | [Ver Projeto]([https://natipastre.github.io/Calculadora---js-/](https://natipastre.github.io/Gerenciador-de-Tarefas/))                   |
+| 🖩 **Gerenciador de tarefas**     | Projeto de aprendizado utilizando HTML, CSS e JavaScript. O objetivo de praticar conceitos fundamentais como estruturação de páginas | [Ver Projeto](https://natipastre.github.io/Gerenciador-de-Tarefas/))                   |
 
 
 
