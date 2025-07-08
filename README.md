@@ -43,10 +43,8 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 ### 💻 Projetos em Destaque
 
 | Projeto                    | Descrição                                                                                                                           | Link                                                                             |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 🚦 **Relógio JS Dinâmico** |Relógio digital que exibe data e hora em tempo real, com botões para simular horários e mudança automática de tema e imagem. Desenvolvido com JavaScript, CSS e HTML.
-
-de tema e imagem.        | [Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)                |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 🚦 **Relógio JS Dinâmico** | Relógio digital que exibe data e hora em tempo real, com botões para simular horários e mudança automática de tema e imagem. Desenvolvido com JavaScript, CSS e HTML. | [Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)                |
 | ⭐ **Layout Criativo**      | Página com layout moderno e responsivo, ideal para estudo de design com HTML e CSS.                                                 | [Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)           |
 | 💇 **Lista de Contatos**   | Aplicação simples para cadastro e visualização de contatos. Feita com HTML e CSS.                                                   | [Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)      |
 | 🧹 **Cartões Responsivos** | Cards com layout limpo e responsivo, desenvolvidos em HTML e CSS.                                                                   | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
@@ -55,6 +53,7 @@ de tema e imagem.        | [Ver Projeto](https://natipastre.github.io/Rel-gio-JS
 | 🧠 **Jogo da Memória**     | Jogo da memória interativo com efeito 3D. Desenvolvido apenas com HTML e CSS.                                                       | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                    |
 | 🖩 **Calculadora**         | Calculadora funcional com layout centralizado. Desenvolvida com HTML, CSS e JavaScript.                                            | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                  |
 | ✅ **Gerenciador de Tarefas** | Projeto para praticar estruturação de páginas e lógica com HTML, CSS e JavaScript.                                                  | [Ver Projeto](https://natipastre.github.io/Gerenciador-de-Tarefas/)             |
+     |
 
 ---
 
