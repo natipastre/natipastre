@@ -8,25 +8,23 @@
 
 ---
 
-### 🚀 Sobre mim
+👩‍💻 Sobre mim
+Sou uma Desenvolvedora Front-End em transição de carreira, migrando da área administrativa para a tecnologia.
+💼 Após mais de 10 anos com foco em dados, processos e indicadores, descobri na programação uma forma criativa de resolver problemas com lógica e tecnologia.
+📚 Atualmente curso Análise e Desenvolvimento de Sistemas e venho me desenvolvendo por meio de projetos práticos, cursos e atividades extensionistas.
 
-> "Transformando dados em insights, código em soluções e ideias em inovação."
+🎯 Objetivo
+🚀 Busco uma oportunidade como Estagiária ou Desenvolvedora Júnior, onde possa aplicar meus conhecimentos, colaborar em equipe e crescer profissionalmente no universo do desenvolvimento web.
 
-Sou uma desenvolvedora com foco em Front-End, apaixonada por resolver problemas usando tecnologia. Estou em transição da área administrativa para a tecnologia, cursando Análise e Desenvolvimento de Sistemas. Busco oportunidades de estágio ou vaga júnior para colaborar com soluções inovadoras e crescer profissionalmente.
+🛠 Tecnologias e Aprendizado
+🌐 HTML, CSS e JavaScript
 
-- 🌟 Aprendendo conceitos avançados de JavaScript, HTML5 e CSS3
-- ☕ Me aprofundando em Java e Python
-- 👥 Aberta para projetos colaborativos e de pesquisa
-- 💬 Pergunte-me sobre tecnologia! Adoro trocar ideias e aprender juntos.
+⚛️ Estudando React e Java
 
+🧰 Conhecimentos em Git, GitHub, Figma, Power BI e Excel Avançado
+
+🌎 Estudo de Inglês (nível B2) com foco em oportunidades no mercado internacional
 ---
-
-### 💡 Habilidades Técnicas
-
-- **Linguagens:** JavaScript, HTML5, CSS3
-- **Ferramentas:** Git, VS Code  
-- **Metodologias:** Metodologias ágeis, controle de versão  
-- **Bases:** Lógica de programação, desenvolvimento Front-End, responsive design
 
 ---
 
