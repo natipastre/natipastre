@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
-<h4 align="center">🎯 Foco: Oportunidades para estágio e vaga de Desenvolvedora Júnior</h4>
+
 
 ---
 
@@ -14,7 +14,8 @@ Sou uma Desenvolvedora Front-End em transição de carreira, migrando da área a
 📚 Atualmente curso Análise e Desenvolvimento de Sistemas e venho me desenvolvendo por meio de projetos práticos, cursos e atividades extensionistas.
 
 🎯 Objetivo
-🚀 Busco uma oportunidade como Estagiária ou Desenvolvedora Júnior, onde possa aplicar meus conhecimentos, colaborar em equipe e crescer profissionalmente no universo do desenvolvimento web.
+Busco uma oportunidade como Estagiária ou Desenvolvedora Júnior, onde possa aplicar meus conhecimentos, 
+colaborar em equipe e crescer profissionalmente no universo do desenvolvimento web.
 
 🛠 Tecnologias e Aprendizado
 🌐 HTML, CSS e JavaScript
