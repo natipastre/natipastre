@@ -9,8 +9,7 @@
 ---
 
 👩‍💻 Sobre mim
-Sou uma Desenvolvedora Front-End em transição de carreira, migrando da área administrativa para a tecnologia.
-💼 Após mais de 10 anos com foco em dados, processos e indicadores, descobri na programação uma forma criativa de resolver problemas com lógica e tecnologia.
+Sou uma Desenvolvedora Front-End em transição de carreira, migrando da área administrativa para a tecnologia. Após mais de 10 anos com foco em dados, processos e indicadores, descobri na programação uma forma criativa de resolver problemas com lógica e tecnologia.
 📚 Atualmente curso Análise e Desenvolvimento de Sistemas e venho me desenvolvendo por meio de projetos práticos, cursos e atividades extensionistas.
 
 🎯 Objetivo
