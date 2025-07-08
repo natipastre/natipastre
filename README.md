@@ -25,7 +25,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 - 🌐 **HTML**, **CSS** e **JavaScript**
 - ⚛️ Estudando **React** e **Java**
-- 🧰 Conhecimentos em **Git**, **GitHub**, **Figma**, **Power BI** e **Excel Avançado**
+- 🧰 Conhecimentos em **Git**, **GitHub**, **Figma**.
 - 🌍 **Inglês nível B2**, com foco em oportunidades internacionais
 
 ---
