@@ -49,11 +49,9 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 | 💇 **Lista de Contatos**   | Aplicação simples para cadastro e visualização de contatos. Feita com HTML e CSS.                                                   | [Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)      |
 | 🧹 **Cartões Responsivos** | Cards com layout limpo e responsivo, desenvolvidos em HTML e CSS.                                                                   | [Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
 | 🏢 **Site Institucional**  | Página institucional responsiva criada com HTML e CSS.                                                                              | [Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)     |
-| 🔐 **Formulário de Login** | Tela de login com validações básicas e design moderno. Desenvolvido com HTML e CSS.                                                 | [Ver Projeto](https://natipastre.github.io/Login-form/)                         |
-| 🧠 **Jogo da Memória**     | Jogo da memória interativo com efeito 3D. Desenvolvido apenas com HTML e CSS.                                                       | [Ver Projeto](https://natipastre.github.io/Jogo-da-memoria/)                    |
 | 🖩 **Calculadora**         | Calculadora funcional com layout centralizado. Desenvolvida com HTML, CSS e JavaScript.                                            | [Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                  |
 | ✅ **Gerenciador de Tarefas** | Projeto para praticar estruturação de páginas e lógica com HTML, CSS e JavaScript.                                                  | [Ver Projeto](https://natipastre.github.io/Gerenciador-de-Tarefas/)             |
-     |
+| 🔍 **Verificador de Idade** | Aplicação web que calcula a idade com base no ano de nascimento e sexo, exibindo mensagem personalizada com imagens ilustrativas. Desenvolvido com HTML, CSS e JavaScript. | [Ver Projeto](https://natipastre.github.io/verificador-idade-javascript/)       |
 
 ---
 
