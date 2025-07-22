@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/3wq3nvZ8/Banner-para-Linkedin-Tecnologia-em-Preto.png" alt="Banner Tecnologia" width="800"/>
 </p>
 
-<h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
+
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
 
 ---
