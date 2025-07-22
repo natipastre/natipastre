@@ -39,7 +39,6 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 </p>
 
 ---
-
 ### 💻 Projetos em Destaque
 
 | Projeto                    | Descrição                                                                                                                           | Link                                                                             |
@@ -53,6 +52,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 | 🔍 **Verificador de Idade** | Calcula a idade com base no ano de nascimento e sexo, exibindo mensagem personalizada com imagens ilustrativas. HTML, CSS e JS.   | [Ver Projeto](https://natipastre.github.io/verificador-idade-javascript/)       |
 | 🧮 **Tabuada Interativa** | Gera a tabuada de multiplicação de 1 a 10, com interface responsiva e validações de entrada. HTML, CSS e JavaScript.                | [Ver Projeto](https://natipastre.github.io/tabuada-interativa/)                 |
 | ⏰ **Relógio JS Dinâmico** | Relógio digital que exibe data e hora em tempo real, com botões para simular horários e mudança de tema. HTML, CSS e JS.           | [Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)                |
+| 📊 **Tabela de Produtos**  | Tabela interativa que calcula automaticamente o total de itens e o valor total dos produtos. Desenvolvida com HTML, CSS e JS.       | [Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)                 |
 
 ---
 
