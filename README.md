@@ -1,6 +1,4 @@
-<div align="center">
-  <img src='https://i.postimg.cc/1RWRN5z2/Chat-GPT-Image-14-de-jun-de-2025-19-27-44.png' alt='Banner' width="700" />
-</div>
+
 
 <h1 align="center">Olá 👋, eu sou a Natália Pastre</h1>
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
