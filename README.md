@@ -2,7 +2,6 @@
   <img src="https://i.postimg.cc/3wq3nvZ8/Banner-para-Linkedin-Tecnologia-em-Preto.png" alt="Banner Tecnologia" width="800"/>
 </p>
 
-
 <h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
 
 ---
@@ -39,6 +38,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 </p>
 
 ---
+
 ### 💻 Projetos em Destaque
 
 | Projeto                    | Descrição                                                                                                                           | Link                                                                             |
@@ -53,6 +53,16 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 | 🧮 **Tabuada Interativa** | Gera a tabuada de multiplicação de 1 a 10, com interface responsiva e validações de entrada. HTML, CSS e JavaScript.                | [Ver Projeto](https://natipastre.github.io/tabuada-interativa/)                 |
 | ⏰ **Relógio JS Dinâmico** | Relógio digital que exibe data e hora em tempo real, com botões para simular horários e mudança de tema. HTML, CSS e JS.           | [Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)                |
 | 📊 **Tabela de Produtos**  | Tabela interativa que calcula automaticamente o total de itens e o valor total dos produtos. Desenvolvida com HTML, CSS e JS.       | [Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)                 |
+
+---
+
+### 📝 Formulário de Cadastro Profissional e Responsivo
+
+<p align="center">
+  🚀 <a href="https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/" target="_blank">👉 Clique para abrir o formulário</a>
+</p>
+
+Projeto moderno e responsivo de formulário web com validação e upload de imagem.
 
 ---
 
@@ -87,3 +97,4 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 ### ✨ Frase motivacional
 
 > _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
+
