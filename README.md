@@ -57,9 +57,6 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 
 
-
-Projeto moderno e responsivo de formulário web com validação e upload de imagem.
-
 ---
 
 ### 📊 Estatísticas do GitHub
