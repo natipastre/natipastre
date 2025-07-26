@@ -43,7 +43,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 | Projeto                                   | Descrição                                                                                                                           | Link                                                                             |
 |------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| 📝 **Formulário de Cadastro Profissional** | Projeto moderno e responsivo de formulário web com validação dinâmica e upload de imagens. feito com **HTML5**, **CSS3** e **JavaScript**                                          | [🔗 Ver Projeto](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
+
 | ⭐ **Layout Criativo**                     | Página com layout moderno e responsivo, ideal para estudo de design com HTML e CSS.                                                 | [🔗 Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)           |
 | 💇‍♀️ **Lista de Contatos**                | Aplicação simples para cadastro e visualização de contatos. Feita com HTML e CSS.                                                   | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)      |
 | 🧹 **Cartões Responsivos**                | Cards com layout limpo e responsivo, desenvolvidos em HTML e CSS.                                                                   | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
@@ -54,7 +54,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 | 🧮 **Tabuada Interativa**                  | Gera a tabuada de multiplicação de 1 a 10, com interface responsiva e validações de entrada. HTML, CSS e JavaScript.                | [🔗 Ver Projeto](https://natipastre.github.io/tabuada-interativa/)                 |
 | ⏰ **Relógio JS Dinâmico**                 | Relógio digital que exibe data e hora em tempo real, com botões para simular horários e mudança de tema. HTML, CSS e JS.           | [🔗 Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)                |
 | 📊 **Tabela de Produtos**                  | Tabela interativa que calcula automaticamente o total de itens e o valor total dos produtos. Desenvolvida com HTML, CSS e JS.       | [🔗 Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)                 |
-
+| 📝 **Formulário de Cadastro Profissional** | Projeto moderno e responsivo de formulário web com validação dinâmica e upload de imagens. feito com **HTML5**, **CSS3** e **JavaScript**                                          | [🔗 Ver Projeto](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
 ---
 
 
