@@ -14,20 +14,23 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 ---
 
-### 🎯 Objetivo
-
-🚀 Busco uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, colaborar com a equipe e crescer profissionalmente no desenvolvimento web.
-
----
-
 ### 🛠 Tecnologias e Aprendizado
 
 - 🌐 **HTML**, **CSS** e **JavaScript**  
 - ⚛️ Aprimorando meus conhecimentos em **React**  
 - 🧰 Conhecimentos em **Git**, **GitHub**, **Figma**  
 - 🌍 **Inglês nível B2**, com foco em oportunidades internacionais
+🚀 Busco uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, colaborar com a equipe e crescer profissionalmente no desenvolvimento web.
 
 ---
+
+### 🎯 Objetivo
+
+🚀 Busco uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, colaborar com a equipe e crescer profissionalmente no desenvolvimento web.
+
+---
+
+
 
 ### ⚙️ Tecnologias Principais
 
@@ -90,4 +93,5 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 ### ✨ Frase motivacional
 
 > _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
+
 
