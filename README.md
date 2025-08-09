@@ -57,6 +57,8 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 | ⏰ **Relógio JS Dinâmico**                 | Relógio digital em tempo real com botões para simular horários e troca de temas. HTML, CSS e JS.                                | [🔗 Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)               |
 | 📊 **Tabela de Produtos**                  | Tabela interativa que calcula total de itens e valor dos produtos automaticamente. Desenvolvida com HTML, CSS e JavaScript.     | [🔗 Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)                |
 | 📝 **Formulário de Cadastro Profissional** | Formulário web moderno e responsivo com validação dinâmica e upload de imagens, construído com **HTML5**, **CSS3** e **JavaScript**. | [🔗 Ver Projeto](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
+| 🚀 **DevClub Store**                      | Landing page responsiva e elegante que apresenta produtos tecnológicos da Apple — Apple Watch Series 10, AirPods Max e Vision Pro — com carrossel visual atrativo e navegação interativa. | [🔗 Ver Projeto](https://natipastre.github.io/DevClub-Store/)                    |
+
 
 
 
@@ -93,5 +95,6 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 ### ✨ Frase motivacional
 
 > _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
+
 
 
