@@ -1,4 +1,6 @@
-👩🏻‍💻 Natália Pastre
+<p align="center">
+  <h1>👩🏻‍💻 <strong style="font-size:3.5em;">Natália Pastre</strong></h1>
+</p>
 
 <h2 align="center">💻 Desenvolvedora Front-End</h2>
 <h4 align="center">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
@@ -84,6 +86,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 ## ✨ Frase motivacional
 
 > _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
+
 
 
 
