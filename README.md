@@ -38,22 +38,6 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 ---
 
-## 💻 Projetos em Destaque
-
-| Projeto                                   | Descrição                                                                                                                        | Link                                                                             |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ⭐ **Layout Criativo**                     | Página responsiva com design moderno e clean.                                                                                    | [🔗 Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)         |
-| 💇‍♀️ **Lista de Contatos**                 | Aplicação simples de cadastro e listagem de contatos.                                                                            | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)    |
-| 🧹 **Cartões Responsivos**                 | Cards dinâmicos e adaptáveis a diferentes telas.                                                                                 | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
-| 🏢 **Site Institucional**                  | Página institucional responsiva para apresentação corporativa.                                                                   | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)   |
-| 🖩 **Calculadora**                         | Calculadora funcional com HTML, CSS e JavaScript.                                                                                | [🔗 Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                |
-| ✅ **Gerenciador de Tarefas**              | Lista de tarefas dinâmica para prática de lógica em JS.                                                                          | [🔗 Ver Projeto](https://natipastre.github.io/Gerenciador-de-Tarefas/)           |
-| 🔍 **Verificador de Idade**                | Calcula idade e exibe mensagens personalizadas.                                                                                  | [🔗 Ver Projeto](https://natipastre.github.io/verificador-idade-javascript/)     |
-| 🧮 **Tabuada Interativa**                  | Gera tabuada com interface amigável e validação de entrada.                                                                      | [🔗 Ver Projeto](https://natipastre.github.io/tabuada-interativa/)               |
-| ⏰ **Relógio JS Dinâmico**                  | Relógio digital em tempo real com temas e simulação de horários.                                                                 | [🔗 Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)              |
-| 📊 **Tabela de Produtos**                  | Calcula total de produtos e valores automaticamente.                                                                             | [🔗 Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)               |
-| 📝 **Formulário de Cadastro Profissional** | Formulário moderno com validação e upload de imagem.                                                                             | [🔗 Ver Projeto](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
-| 🚀 **DevClub Store**                       | Landing page responsiva com carrossel de produtos Apple.                                                                         | [🔗 Ver Projeto](https://natipastre.github.io/DevClub-Store/)                    |
 
 ---
 
@@ -82,6 +66,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
