@@ -23,7 +23,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 - 🌐 **HTML**, **CSS**, **JavaScript**  
 - ⚛️ **React** (em aprendizado contínuo)  
-- 🧰 **Git**, **GitHub**, **Figma**  
+- 🧰 **Git**, **GitHub**
 - 🌍 **Inglês B2**, com foco em oportunidades internacionais
 
 ---
@@ -66,6 +66,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
