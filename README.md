@@ -2,37 +2,31 @@
   <img src="https://i.postimg.cc/3wq3nvZ8/Banner-para-Linkedin-Tecnologia-em-Preto.png" alt="Banner Tecnologia" width="800"/>
 </p>
 
-<h3 align="center">💻 Desenvolvedora em formação e apaixonada por tecnologia!</h3>
+<h2 align="center">💻 Desenvolvedora Front-End</h2>
+<h4 align="center">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
 
 ---
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da área administrativa para a tecnologia.  
-💼 Após mais de 10 anos com foco em dados, processos e indicadores, encontrei na programação uma forma criativa e lógica de solucionar problemas.  
-📚 Atualmente, curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo por meio de projetos práticos, cursos complementares e participação em atividades extensionistas.
+
+💼 Foram mais de **10 anos trabalhando com dados, processos e indicadores** — e foi na programação que encontrei uma forma criativa e lógica de resolver problemas.  
+📚 Atualmente, curso **Análise e Desenvolvimento de Sistemas** e desenvolvo minhas habilidades com **projetos práticos, cursos complementares e atividades extensionistas**.  
+🚀 Meu objetivo é conquistar uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior** para aplicar meus conhecimentos, colaborar com equipes e continuar evoluindo.
 
 ---
 
-### 🛠 Tecnologias e Aprendizado
+## 🛠 Tecnologias e Ferramentas
 
-- 🌐 **HTML**, **CSS** e **JavaScript**  
-- ⚛️ Aprimorando meus conhecimentos em **React**  
-- 🧰 Conhecimentos em **Git**, **GitHub**, **Figma**  
-- 🌍 **Inglês nível B2**, com foco em oportunidades internacionais
-🚀 Busco uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, colaborar com a equipe e crescer profissionalmente no desenvolvimento web.
-
----
-
-### 🎯 Objetivo
-
-🚀 Busco uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior**, onde eu possa aplicar meus conhecimentos, colaborar com a equipe e crescer profissionalmente no desenvolvimento web.
+- 🌐 **HTML**, **CSS**, **JavaScript**
+- ⚛️ **React** (em aprendizado contínuo)
+- 🧰 **Git**, **GitHub**, **Figma**
+- 🌍 **Inglês B2**, com foco em oportunidades internacionais
 
 ---
 
-
-
-### ⚙️ Tecnologias Principais
+## ⚙️ Tecnologias Principais
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -42,29 +36,26 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 ---
 
-### 💻 Projetos em Destaque
+## 💻 Projetos em Destaque
 
 | Projeto                                   | Descrição                                                                                                                        | Link                                                                             |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ⭐ **Layout Criativo**                     | Página com layout moderno e responsivo, ideal para estudo de design com HTML e CSS.                                              | [🔗 Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)          |
-| 💇‍♀️ **Lista de Contatos**                | Aplicação simples para cadastro e visualização de contatos, desenvolvida com HTML e CSS.                                         | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)     |
-| 🧹 **Cartões Responsivos**                | Cards limpos e responsivos, feitos em HTML e CSS para layouts modernos e flexíveis.                                             | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
-| 🏢 **Site Institucional**                 | Página institucional responsiva criada com HTML e CSS, focada em apresentação corporativa.                                       | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)    |
-| 🖩 **Calculadora**                        | Calculadora funcional com design centralizado, construída com HTML, CSS e JavaScript.                                            | [🔗 Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                 |
-| ✅ **Gerenciador de Tarefas**             | Projeto para praticar lógica e estruturação de páginas com HTML, CSS e JavaScript.                                              | [🔗 Ver Projeto](https://natipastre.github.io/Gerenciador-de-Tarefas/)            |
-| 🔍 **Verificador de Idade**               | Calcula idade com base no ano de nascimento e sexo, exibindo mensagens personalizadas e imagens. HTML, CSS e JS.                | [🔗 Ver Projeto](https://natipastre.github.io/verificador-idade-javascript/)      |
-| 🧮 **Tabuada Interativa**                  | Gera tabuada de multiplicação de 1 a 10 com interface responsiva e validação de entrada. HTML, CSS e JavaScript.                 | [🔗 Ver Projeto](https://natipastre.github.io/tabuada-interativa/)                |
-| ⏰ **Relógio JS Dinâmico**                 | Relógio digital em tempo real com botões para simular horários e troca de temas. HTML, CSS e JS.                                | [🔗 Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)               |
-| 📊 **Tabela de Produtos**                  | Tabela interativa que calcula total de itens e valor dos produtos automaticamente. Desenvolvida com HTML, CSS e JavaScript.     | [🔗 Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)                |
-| 📝 **Formulário de Cadastro Profissional** | Formulário web moderno e responsivo com validação dinâmica e upload de imagens, construído com **HTML5**, **CSS3** e **JavaScript**. | [🔗 Ver Projeto](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
-| 🚀 **DevClub Store**                      | Landing page responsiva e elegante que apresenta produtos tecnológicos da Apple — Apple Watch Series 10, AirPods Max e Vision Pro — com carrossel visual atrativo e navegação interativa. | [🔗 Ver Projeto](https://natipastre.github.io/DevClub-Store/)                    |
-
-
-
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ⭐ **Layout Criativo**                     | Página responsiva com design moderno e clean.                                                                                    | [🔗 Ver Projeto](https://natipastre.github.io/Projeto1--LayoutCriativo/)         |
+| 💇‍♀️ **Lista de Contatos**                 | Aplicação simples de cadastro e listagem de contatos.                                                                            | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-2---Lista-de-Contatos/)    |
+| 🧹 **Cartões Responsivos**                 | Cards dinâmicos e adaptáveis a diferentes telas.                                                                                 | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/) |
+| 🏢 **Site Institucional**                  | Página institucional responsiva para apresentação corporativa.                                                                   | [🔗 Ver Projeto](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)   |
+| 🖩 **Calculadora**                         | Calculadora funcional com HTML, CSS e JavaScript.                                                                                | [🔗 Ver Projeto](https://natipastre.github.io/Calculadora---js-/)                |
+| ✅ **Gerenciador de Tarefas**              | Lista de tarefas dinâmica para prática de lógica em JS.                                                                          | [🔗 Ver Projeto](https://natipastre.github.io/Gerenciador-de-Tarefas/)           |
+| 🔍 **Verificador de Idade**                | Calcula idade e exibe mensagens personalizadas.                                                                                  | [🔗 Ver Projeto](https://natipastre.github.io/verificador-idade-javascript/)     |
+| 🧮 **Tabuada Interativa**                  | Gera tabuada com interface amigável e validação de entrada.                                                                      | [🔗 Ver Projeto](https://natipastre.github.io/tabuada-interativa/)               |
+| ⏰ **Relógio JS Dinâmico**                  | Relógio digital em tempo real com temas e simulação de horários.                                                                 | [🔗 Ver Projeto](https://natipastre.github.io/Rel-gio-JS-Din-mico/)              |
+| 📊 **Tabela de Produtos**                  | Calcula total de produtos e valores automaticamente.                                                                             | [🔗 Ver Projeto](https://natipastre.github.io/Tabela-de-Produtos/)               |
+| 📝 **Formulário de Cadastro Profissional** | Formulário moderno com validação e upload de imagem.                                                                             | [🔗 Ver Projeto](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/) |
+| 🚀 **DevClub Store**                       | Landing page responsiva com carrossel de produtos Apple.                                                                         | [🔗 Ver Projeto](https://natipastre.github.io/DevClub-Store/)                    |
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natipastre&show_icons=true&theme=radical" />
@@ -73,7 +64,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 ---
 
-### 💌 Contato
+## 💌 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nataliapastre-dev/" target="_blank">
@@ -92,10 +83,9 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 ---
 
-### ✨ Frase motivacional
+## ✨ Frase motivacional
 
 > _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
-
 
 
 
