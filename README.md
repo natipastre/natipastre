@@ -1,9 +1,9 @@
-<p align="center">
-  <h1>👩🏻‍💻 <strong style="font-size:3.5em;">Natália Pastre</strong></h1>
+<p align="center" style="font-size: 4.5em; font-weight: bold; margin-bottom: 0.2em;">
+  👩🏻‍💻 Natália Pastre
 </p>
 
 <h2 align="center">💻 Desenvolvedora Front-End</h2>
-<h4 align="center">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
+<h4 align="center" style="font-weight: normal; margin-top: 0;">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
 
 ---
 
@@ -19,9 +19,9 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 ## 🛠 Tecnologias e Ferramentas
 
-- 🌐 **HTML**, **CSS**, **JavaScript**
-- ⚛️ **React** (em aprendizado contínuo)
-- 🧰 **Git**, **GitHub**, **Figma**
+- 🌐 **HTML**, **CSS**, **JavaScript**  
+- ⚛️ **React** (em aprendizado contínuo)  
+- 🧰 **Git**, **GitHub**, **Figma**  
 - 🌍 **Inglês B2**, com foco em oportunidades internacionais
 
 ---
@@ -81,11 +81,6 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
   </a>
 </p>
 
----
-
-## ✨ Frase motivacional
-
-> _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
 
 
 
