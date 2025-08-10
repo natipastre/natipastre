@@ -1,6 +1,7 @@
-<p align="center" style="font-size: 4.5em; font-weight: bold; margin-bottom: 0.2em;">
+<p style="font-size: 5.5em; font-weight: bold; margin-bottom: 0.2em; text-align: left;">
   👩🏻‍💻 Natália Pastre
 </p>
+
 
 <h2 align="center">💻 Desenvolvedora Front-End</h2>
 <h4 align="center" style="font-weight: normal; margin-top: 0;">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
@@ -80,6 +81,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
