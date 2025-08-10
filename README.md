@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.postimg.cc/3wq3nvZ8/Banner-para-Linkedin-Tecnologia-em-Preto.png" alt="Banner Tecnologia" width="800"/>
-</p>
+👩🏻‍💻 Natália Pastre
 
 <h2 align="center">💻 Desenvolvedora Front-End</h2>
 <h4 align="center">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
@@ -86,6 +84,7 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 ## ✨ Frase motivacional
 
 > _"Cada linha de código é um passo a mais rumo ao meu objetivo. Estou sempre evoluindo."_
+
 
 
 
