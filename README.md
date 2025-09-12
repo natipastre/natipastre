@@ -1,21 +1,21 @@
 <h2 style="font-size: 2em; font-weight: 600; margin: 0; text-align: left;">
-  👩🏻‍💻 Natália Pastre
+  👩🏻‍💻 Natália Baptista Pastre
 </h2>
 
-
-
 <h2 align="center">💻 Desenvolvedora Front-End</h2>
-<h4 align="center" style="font-weight: normal; margin-top: 0;">Apaixonada por tecnologia, design e sempre buscando novos desafios.</h4>
+<h4 align="center" style="font-weight: normal; margin-top: 0;">
+  Apaixonada por tecnologia, design e desenvolvimento de soluções criativas.
+</h4>
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da área administrativa para a tecnologia.  
+Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transição de carreira, migrando da área administrativa para tecnologia.  
 
-💼 Foram mais de **10 anos trabalhando com dados, processos e indicadores** — e foi na programação que encontrei uma forma criativa e lógica de resolver problemas.  
-📚 Atualmente, curso **Análise e Desenvolvimento de Sistemas** e desenvolvo minhas habilidades com **projetos práticos, cursos complementares e atividades extensionistas**.  
-🚀 Meu objetivo é conquistar uma oportunidade como **Estagiária** ou **Desenvolvedora Júnior** para aplicar meus conhecimentos, colaborar com equipes e continuar evoluindo.
+💼 Tenho mais de **10 anos de experiência com análise de dados, otimização de processos e indicadores**, principalmente em manutenção de frotas, aplicando visão analítica e resolução de problemas.  
+📚 Desenvolvo minhas habilidades em **HTML, CSS, JavaScript e React**, com projetos práticos, cursos complementares e atividades extensionistas.  
+🚀 Busco minha primeira oportunidade como **Estagiária ou Desenvolvedora Júnior**, contribuindo com equipes e evoluindo constantemente.  
 
 ---
 
@@ -23,8 +23,8 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
 
 - 🌐 **HTML**, **CSS**, **JavaScript**  
 - ⚛️ **React** (em aprendizado contínuo)  
-- 🧰 **Git**, **GitHub**
-- 🌍 **Inglês B2**, com foco em oportunidades internacionais
+- 🧰 **Git**, **GitHub**  
+- 🌍 **Inglês B2**, com foco em oportunidades internacionais  
 
 ---
 
@@ -34,10 +34,8 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 </p>
-
----
-
 
 ---
 
@@ -66,6 +64,8 @@ Sou uma **Desenvolvedora Front-End** em transição de carreira, migrando da ár
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
 
 
 
