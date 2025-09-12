@@ -15,7 +15,13 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
 
 💼 Tenho mais de **10 anos de experiência com análise de dados, otimização de processos e indicadores**, principalmente em manutenção de frotas, aplicando visão analítica e resolução de problemas.  
 📚 Desenvolvo minhas habilidades em **HTML, CSS, JavaScript e React**, com projetos práticos, cursos complementares e atividades extensionistas.  
-🚀 Busco minha primeira oportunidade como **Estagiária ou Desenvolvedora Júnior**, contribuindo com equipes e evoluindo constantemente.  
+🌱 Sou curiosa, proativa e apaixonada por aprender na prática. Participo de **projetos sociais e acadêmicos** que unem tecnologia e impacto social, como o **projeto de brinquedos recicláveis da Unicesumar**, que promove criatividade e responsabilidade socioambiental.
+
+---
+
+## 🎯 Objetivo
+
+🚀 Conquistar uma oportunidade como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos, colaborando com equipes e evoluindo constantemente.  
 
 ---
 
@@ -64,8 +70,6 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-
 
 
 
