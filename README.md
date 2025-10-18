@@ -18,9 +18,9 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
 
 ---
 
-## 🎯 Objetivo
+🎯 Objetivo
 
-🚀 Conquistar uma oportunidade como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos, colaborando com equipes e evoluindo constantemente.  
+🚀 Ingressar na área de TI como Estagiária ou Desenvolvedora Front-End Júnior, aplicando meus conhecimentos em desenvolvimento web, React e tecnologias modernas, colaborando com equipes e crescendo profissionalmente.
 
 ---
 
@@ -79,6 +79,7 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
