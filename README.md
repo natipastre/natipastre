@@ -47,8 +47,16 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natipastre&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natipastre&layout=compact&langs_count=7&theme=radical" />
+  <!-- Total de commits, repositórios e contribuições -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natipastre&show_icons=true&theme=radical&hide_border=false" />
+
+  <!-- Linguagens mais usadas nos repositórios -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natipastre&layout=compact&langs_count=7&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  🚀 **Visite meu GitHub para explorar meus projetos e contribuições!**  
+  🔗 <a href="https://github.com/natipastre">https://github.com/natipastre</a>
 </p>
 
 ---
@@ -69,6 +77,7 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
