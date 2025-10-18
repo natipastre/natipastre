@@ -56,7 +56,7 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
 <p align="center">
   💻 **Principais tecnologias:** React, JavaScript, CSS, HTML  
   🚀 **Visite meu GitHub para explorar meus projetos e contribuições!**  
-  🔗 <a href="https://github.com/natipastre">https://github.com/natipastre</a>
+
 </p>
 
 </p>
@@ -79,6 +79,7 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
