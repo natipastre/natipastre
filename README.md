@@ -19,24 +19,29 @@
 
 
 ---
-
 ## 🌟 Projetos em Destaque
 
 ### ⏱️ [Cronômetro em React](https://natipastre.github.io/cronometro-em-react/)
-- **Tecnologias:** React, Hooks, CSS
+- **Tecnologias:** React, Hooks, CSS  
+- **Descrição:** Um cronômetro interativo com iniciar, pausar e zerar, perfeito para praticar React e Hooks.
 <p align="center">
   <img src="https://i.postimg.cc/3RzPQHjS/cronometro-gif.gif" width="400"/>
 </p>
-
+<p align="center">
+  🚀 <a href="https://natipastre.github.io/cronometro-em-react/">Veja o projeto online</a>
+</p>
 
 ---
 
 ### 🧮 [Calculadora em React](https://natipastre.github.io/calculadora-react/)
-- **Tecnologias:** React, CSS, JavaScript
+- **Tecnologias:** React, CSS, JavaScript  
+- **Descrição:** Calculadora funcional com design limpo e responsivo, desenvolvida para aprimorar habilidades em React.
 <p align="center">
   <img src="https://i.postimg.cc/Y0y8dKZM/calculadora-screenshot.png" width="400"/>
 </p>
-
+<p align="center">
+  🚀 <a href="https://natipastre.github.io/calculadora-react/">Veja o projeto online</a>
+</p>
 
 
 
@@ -82,6 +87,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
