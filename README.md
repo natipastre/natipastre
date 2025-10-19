@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" />
+
 </p>
 
 
@@ -72,6 +72,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
