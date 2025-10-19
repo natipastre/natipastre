@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.postimg.cc/hth1QQZ8/Captura-de-tela-2025-10-18-211658.jpg" width="400"/>
+</p>
+
+
 <h2 style="font-size: 2em; font-weight: 600; margin: 0; text-align: left;">
   👩🏻‍💻 Natália Baptista Pastre
 </h2>
@@ -68,6 +73,7 @@ Sou **graduanda em Análise e Desenvolvimento de Sistemas** e estou em transiç�
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
