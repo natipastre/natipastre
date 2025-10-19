@@ -28,9 +28,6 @@
   <img src="https://i.postimg.cc/3RzPQHjS/cronometro-gif.gif" width="400"/>
 </p>
 
-<p align="center">
-  🚀 Confira o projeto online: <a href="https://natipastre.github.io/cronometro-em-react/">Clique aqui</a>
-</p>
 
 ---
 
@@ -40,9 +37,6 @@
   <img src="https://i.postimg.cc/Y0y8dKZM/calculadora-screenshot.png" width="400"/>
 </p>
 
-<p align="center">
-  🚀 Confira o projeto online: <a href="https://natipastre.github.io/calculadora-react/">Clique aqui</a>
-</p>
 
 ---
 
@@ -91,6 +85,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
