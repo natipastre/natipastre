@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 🛠 Tecnologias & Aprendizado
 
 <p align="center">
@@ -17,6 +16,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 </p>
+
 
 ---
 
@@ -72,6 +72,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
