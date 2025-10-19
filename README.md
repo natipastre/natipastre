@@ -38,9 +38,6 @@
 </p>
 
 
----
-
----
 
 
 ## 📂 Outros Projetos
@@ -85,6 +82,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
