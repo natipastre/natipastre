@@ -2,8 +2,12 @@
 <h2 align="center">💻 Desenvolvedora Front-End | Apaixonada por React e Design</h2>
 
 <p align="center">
-🚀 Em transição de carreira, combinando experiência em análise de dados com desenvolvimento web e soluções criativas.
+🚀 Em transição de carreira para o desenvolvimento web, focada em criar aplicações **interativas, funcionais e com design intuitivo**.  
+💡 Tenho paixão por React, Vite, JavaScript e CSS, HTML, e estou sempre aprendendo novas tecnologias para construir projetos eficientes e escaláveis.  
+🎯 Meu objetivo é atuar como **Estagiária ou Desenvolvedora Front-End Júnior**, contribuindo em projetos desafiadores e crescendo profissionalmente.
 </p>
+
+---
 
 ## 🛠 Tecnologias & Aprendizado
 
@@ -13,17 +17,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-
 </p>
 
-
-
 ---
+
 ## 🌟 Projetos em Destaque
 
 ### ⏱️ [Cronômetro em React](https://natipastre.github.io/cronometro-em-react/)
 - **Tecnologias:** React, Hooks, CSS  
-- **Descrição:** Um cronômetro interativo com iniciar, pausar e zerar, perfeito para praticar React e Hooks.
+- **Descrição:** Um cronômetro interativo com iniciar, pausar e zerar, perfeito para praticar React e Hooks.  
 <p align="center">
   <img src="https://i.postimg.cc/3RzPQHjS/cronometro-gif.gif" width="400"/>
 </p>
@@ -32,16 +34,12 @@
 
 ### 💱 [Conversor de Moedas](https://natipastre.github.io/conversor-moedas/)
 - **Tecnologias:** React, Vite, JavaScript, CSS  
-- **Descrição:** Um aplicativo interativo que permite converter valores entre diferentes moedas de forma rápida e prática, ideal para viagens ou compras internacionais.
+- **Descrição:** Aplicativo interativo para converter valores entre diferentes moedas de forma rápida e prática, ideal para viagens ou compras internacionais.  
 <p align="center">
   <img src="https://i.postimg.cc/placeholder/conversor-gif.gif" width="400"/>
 </p>
 
 ---
-
-
-
-
 
 ## 📂 Outros Projetos
 
@@ -81,20 +79,6 @@
 </p>
 
 ---
-
-## 🎯 Objetivo
-
-🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
-
-
-
-
-
-
-
-
-
-
 
 
 
