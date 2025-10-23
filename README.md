@@ -9,15 +9,18 @@
 
 ---
 
-## 🛠 Tecnologias & Aprendizado
+## 🎯 Objetivo
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-</p>
+Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, colaborando em equipes, aprendendo constantemente e evoluindo profissionalmente.
+
+---
+
+## 🛠 Habilidades
+
+- **Front-End:** React, Vite, JavaScript, TypeScript, HTML, CSS  
+- **Design e UX:** Criação de interfaces intuitivas e responsivas  
+- **Versionamento:** Git e GitHub  
+- **Outras habilidades:** Integração de APIs, deploy de aplicações, boas práticas de código
 
 ---
 
@@ -78,7 +81,7 @@
   </a>
 </p>
 
----
+
 
 
 
