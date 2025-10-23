@@ -30,6 +30,15 @@
 
 ---
 
+### 💱 [Conversor de Moedas](https://natipastre.github.io/conversor-moedas/)
+- **Tecnologias:** React, Vite, JavaScript, CSS  
+- **Descrição:** Um aplicativo interativo que permite converter valores entre diferentes moedas de forma rápida e prática, ideal para viagens ou compras internacionais.
+<p align="center">
+  <img src="https://i.postimg.cc/placeholder/conversor-gif.gif" width="400"/>
+</p>
+
+---
+
 
 
 
@@ -76,6 +85,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
