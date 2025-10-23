@@ -1,10 +1,10 @@
 <h1 align="center">👩🏻‍💻 Natália Baptista Pastre</h1>
-<h2 align="center">💻 Desenvolvedora Front-End  
+<h3 align="center">💻 Desenvolvedora Front-End</h3>
 
 <p align="center">
-🚀 Em transição de carreira para o desenvolvimento web, focada em criar aplicações **interativas, funcionais e com design intuitivo**.  
-💡 Tenho paixão por React, Vite, JavaScript e CSS, HTML, e estou sempre aprendendo novas tecnologias para construir projetos eficientes e escaláveis.  
-🎯 Meu objetivo é atuar como **Estagiária ou Desenvolvedora Front-End Júnior**, contribuindo em projetos desafiadores e crescendo profissionalmente.
+🚀 Em transição de carreira para o desenvolvimento web, focada em criar aplicações **interativas, funcionais e com design intuitivo**.<br>
+💡 Apaixonada por **React, Vite, JavaScript, TypeScript, HTML e CSS**, sempre aprendendo novas tecnologias para construir projetos eficientes e escaláveis.<br>
+🎯 Busco atuar como **Estagiária ou Desenvolvedora Front-End Júnior**, contribuindo em projetos desafiadores e crescendo profissionalmente.
 </p>
 
 ---
@@ -79,6 +79,7 @@
 </p>
 
 ---
+
 
 
 
