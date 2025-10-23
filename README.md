@@ -4,8 +4,7 @@
 <p align="center">
 🚀 Em transição de carreira para o desenvolvimento web, focada em criar aplicações **interativas, funcionais e com design intuitivo**.<br>
 💡 Apaixonada por **React, Vite, JavaScript, TypeScript, HTML e CSS**, sempre aprendendo novas tecnologias para construir projetos eficientes e escaláveis.<br>
-🎯 Busco atuar como **Estagiária ou Desenvolvedora Front-End Júnior**, contribuindo em projetos desafiadores e crescendo profissionalmente.
-</p>
+
 
 ---
 
@@ -80,6 +79,7 @@ Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior*
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
