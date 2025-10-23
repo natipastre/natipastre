@@ -1,5 +1,5 @@
 <h1 align="center">👩🏻‍💻 Natália Baptista Pastre</h1>
-<h2 align="center">💻 Desenvolvedora Front-End | 
+<h2 align="center">💻 Desenvolvedora Front-End  
 
 <p align="center">
 🚀 Em transição de carreira para o desenvolvimento web, focada em criar aplicações **interativas, funcionais e com design intuitivo**.  
@@ -79,6 +79,7 @@
 </p>
 
 ---
+
 
 
 
