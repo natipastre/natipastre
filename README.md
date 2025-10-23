@@ -30,12 +30,7 @@
 
 ---
 
-### 🧮 [Calculadora em React](https://natipastre.github.io/calculadora-react/)
-- **Tecnologias:** React, CSS, JavaScript  
-- **Descrição:** Calculadora funcional com design limpo e responsivo, desenvolvida para aprimorar habilidades em React.
-<p align="center">
 
-</p>
 
 
 
@@ -81,6 +76,7 @@
 ## 🎯 Objetivo
 
 🚀 Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior**, aplicando meus conhecimentos em **React, TypeScript, JavaScript e CSS**, e colaborando em equipes para crescer profissionalmente.
+
 
 
 
