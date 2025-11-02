@@ -4,7 +4,7 @@
 <p align="center">
 🚀 Em transição de carreira para o desenvolvimento web, focada em criar aplicações **interativas, funcionais e com design intuitivo**.<br>
 💡 Apaixonada por **React, Vite, JavaScript, TypeScript, HTML e CSS**, sempre aprendendo novas tecnologias para construir projetos eficientes e escaláveis.<br>
-
+</p>
 
 ---
 
@@ -24,6 +24,15 @@ Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior*
 ---
 
 ## 🌟 Projetos em Destaque
+
+### 🎬 [Movie Finder](https://natipastre.github.io/movie-finder/)
+- **Tecnologias:** React, JavaScript, CSS (App.css), Axios  
+- **Descrição:** Aplicação para pesquisar filmes e séries, exibindo sinopse, avaliação, trailer e plataformas de streaming. Layout responsivo com modo claro/escuro automático.  
+<p align="center">
+  <img src="https://i.postimg.cc/vmQcJmct/Captura-de-tela-2025-11-02-102447.jpg" width="400"/>
+</p>
+
+---
 
 ### ⏱️ [Cronômetro em React](https://natipastre.github.io/cronometro-em-react/)
 - **Tecnologias:** React, Hooks, CSS  
@@ -79,10 +88,6 @@ Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior*
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-
-
-
 
 
 
