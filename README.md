@@ -27,10 +27,8 @@ Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior*
 
 ### 🎬 [Movie Finder](https://natipastre.github.io/movie-finder/)
 - **Tecnologias:** React, JavaScript, CSS (App.css), Axios  
-- **Descrição:** Aplicação para pesquisar filmes e séries, exibindo sinopse, avaliação, trailer e plataformas de streaming. Layout responsivo com modo claro/escuro automático.  
-<p align="center">
-  <img src="https://i.postimg.cc/vmQcJmct/Captura-de-tela-2025-11-02-102447.jpg" width="400"/>
-</p>
+- **Descrição:** Aplicação para pesquisar filmes e séries, exibindo sinopse, avaliação, trailer e plataformas de streaming. Layout responsivo com modo claro/escuro automático.
+
 
 ---
 
@@ -88,6 +86,7 @@ Ingressar na área de TI como **Estagiária ou Desenvolvedora Front-End Júnior*
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 
