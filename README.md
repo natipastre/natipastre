@@ -1,34 +1,52 @@
+<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
+###
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F42F7&center=true&width=435&lines=Oi%2C+meu+nome+%C3%A9+Nat%C3%A1lia!;Sou+Desenvolvedora+Front-End!+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6F42F7&center=true&vCenter=true&width=435&lines=Oi%2C+meu+nome+%C3%A9+Nat%C3%A1lia!;Sou+Desenvolvedora+Front-End!)](https://git.io/typing-svg)
 
-<img height="220" src="https://img.freepik.com/fotos-premium/nina-explorando-mundo-digital-programando-computadora-portatil-ia-generativa_971989-7014.jpg" alt="Programando IA" />
+<img height="230" src="https://img.freepik.com/fotos-premium/nina-explorando-mundo-digital-programando-computadora-portatil-ia-generativa_971989-7014.jpg" alt="Programando IA" style="border-radius: 10px;"/>
 
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<h2 align="center">💡 Sobre mim</h2>
+
+<p align="center">
+  🌸 Sou <strong>Natália Baptista Pastre</strong>, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonada por tecnologia!<br><br>
+  💻 Estou em <strong>transição de carreira</strong> da área administrativa para o mundo da programação — onde descobri minha verdadeira paixão.<br><br>
+  🚀 Atualmente, estou me especializando em <strong>Desenvolvimento Front-End</strong> e <strong>Visualização de Dados</strong>.<br><br>
+  🎯 Busco uma oportunidade de <strong>estágio</strong> ou <strong>posição júnior</strong> para aplicar meus conhecimentos, evoluir e contribuir com projetos reais.<br><br>
+  💬 Amo aprender, compartilhar e transformar ideias em interfaces funcionais e bonitas!
+</p>
+
+---
+
+<h3 align="center">🚀 Tecnologias que utilizo:</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
 </div>
 
-###
+---
 
-<div align="left">
+<h3 align="center">📬 Vamos nos conectar!</h3>
+
+<div align="center">
   <a href="mailto:natalia.pastre@yahoo.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -40,18 +58,17 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/natipastre/natipastre/output/snake.svg" alt="Snake animation" />
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natipastre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natipastre&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/natipastre/natipastre/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natipastre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natipastre&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
 
-
+---
