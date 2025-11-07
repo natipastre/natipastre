@@ -1,6 +1,4 @@
-<h1 align="left">Desenvolvedora Front-end! Seja Bem-Vindo(a) 👋​</h1>
 
-###
 
 <div align="center">
 
@@ -54,5 +52,6 @@
 </div>
 
 ###
+
 
 
