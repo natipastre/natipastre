@@ -23,7 +23,6 @@
 </p>
 
 ---
-
 <h3 align="center">🚀 Tecnologias que utilizo:</h3>
 
 <div align="center">
@@ -39,10 +38,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+  <!-- Ícone do GitHub branco para modo escuro -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" height="45" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" height="45" alt="github logo" style="filter: invert(1);" />
 </div>
-
----
 
 <h3 align="center">📬 Vamos nos conectar!</h3>
 
@@ -72,5 +71,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
 </div>
+
 
 
