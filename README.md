@@ -23,7 +23,6 @@
 </p>
 
 ---
-<h3 align="center">🚀 Tecnologias que utilizo:</h3>
 
 <h3 align="center">🚀 Tecnologias que utilizo:</h3>
 
@@ -74,6 +73,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
 </div>
+
 
 
 
