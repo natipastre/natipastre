@@ -25,6 +25,8 @@
 ---
 <h3 align="center">🚀 Tecnologias que utilizo:</h3>
 
+<h3 align="center">🚀 Tecnologias que utilizo:</h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
   <img width="15" />
@@ -38,6 +40,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
   <img width="15" />
+  <!-- Visual Studio Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+</div>
+
 
 
 <h3 align="center">📬 Vamos nos conectar!</h3>
@@ -68,6 +74,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F42F7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
 </div>
+
 
 
 
